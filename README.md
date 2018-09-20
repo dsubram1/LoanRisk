@@ -3,6 +3,9 @@ Introduction
 This project deals with a classification problem, where our goal is to predict bad loans from given set of attributes and thus helping Lending Club to reduce the default risk for loans.
 
 
+
+
+
 What is Lending Club?
 
 ●	Lending Club is a California based peer-to-peer lending company, one of the largest in United States. 
@@ -16,6 +19,9 @@ What is Lending Club?
 ●	The people who want to invest some money (Investors) in the loans, can search and browse the loan listings on Lending Club website and select loans that they want to invest in based on various information provided in the website.
 
 ●	 The investors make money from the interest that the borrowers pay. Also, a small amount is charged by the Lending club from both investors as well as borrowers in the form of fees.
+
+
+
 
 
 Problem we are trying to solve
